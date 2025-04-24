@@ -1,7 +1,12 @@
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="200" fill="#b3c7f9" />
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="40" fill="#a64ac9" font-family="cursive">
-    ❀ Hello, I'm Sydney! ❀
-  </text>
-</svg>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Page</title>
+</head>
+<body>
+  <!-- Import the image from the link -->
+  <img src="https://images.cooltext.com/5729111.png" alt="Hello, I'm Sydney!" />
+</body>
+</html>
