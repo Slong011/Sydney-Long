@@ -1,1 +1,26 @@
+<svg viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="height: 100%">
+      <!-- Link to Google Font -->
+      <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
 
+      <style>
+        .container {
+          width: 100%;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: #b3c7f9; /* light bluish */
+          color: #a64ac9; /* purple */
+          font-family: 'Great Vibes', cursive;
+          font-size: 3rem;
+        }
+      </style>
+
+      <div class="container">
+        ❀ Hello, I'm Sydney! ❀
+      </div>
+    </div>
+  </foreignObject>
+</svg>
